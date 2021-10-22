@@ -1,4 +1,4 @@
-# [Drive_Mapper_bat](https://github.com/DAndrucyk/Multi_distro_checker_bat/releases/tag/Batch)
+# [Drive_Mapper_bat](https://github.com/DAndrucyk/Drive_Mapper_bat/releases/tag/Batch)
 Drive mapping bat file for automatically checking permissions based on distribution/security groups.
 This file will compare the loged in user's ID to see if they are a member of a specific group and will then map a coresponding drive for that user. This file is set up to allow for any number of groups and drives.
 
